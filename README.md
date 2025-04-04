@@ -1,10 +1,8 @@
 # Personal-Portfolio_Webpage
-PROPOSAL FOR A PERSONAL PORTFOLIO WEBPAGE DESIGN 
 
-INTRODUCTION
-This proposal  is aimed at outlining the design and structure of a personal portfolio website. The goal is to create a visually appealing and user-friendly platform that showcases skills, projects, and experience in a unique yet professional format.
+This webpage is aimed at outlining the design and structure of a personal portfolio website. The goal is to create a visually appealing and user-friendly platform that showcases skills, projects, and experience in a unique yet professional format.
 
-OBJECTIVES
+This webpage's primary goal is to;
 - Establish an online presence
 - Display personal and professional achievements
 - Facilitate contact and networking opportunities
